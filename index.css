@@ -1,0 +1,19 @@
+body {
+  background: #2b303b;
+  color: #e6dfdf;
+  font-family: Default_sans;
+}
+textarea {
+  color:white;
+  font-family: Default_sans;
+}
+a{
+color:rgb(58, 202, 39);
+text-decoration: none;
+}
+r{
+	color:yellow
+}
+w{
+	color:#ffffff
+}
